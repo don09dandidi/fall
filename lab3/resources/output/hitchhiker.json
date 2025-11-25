@@ -1,0 +1,495 @@
+[
+  {
+    "id": 6,
+    "isHumanoid": null,
+    "originPlanet": "VOGSPHERE",
+    "age": 144,
+    "physicalTraits": null
+  },
+  {
+    "id": 7,
+    "isHumanoid": null,
+    "originPlanet": "BETELGEUSE",
+    "age": 51,
+    "physicalTraits": null
+  },
+  {
+    "id": 9,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 74,
+    "physicalTraits": [
+      "EXTRA_HEAD",
+      "EXTRA_ARMS"
+    ]
+  },
+  {
+    "id": 10,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 105,
+    "physicalTraits": null
+  },
+  {
+    "id": 13,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 96,
+    "physicalTraits": [
+      "BULKY",
+      "GREEN"
+    ]
+  },
+  {
+    "id": 14,
+    "isHumanoid": null,
+    "originPlanet": "VOGSPHERE",
+    "age": 106,
+    "physicalTraits": [
+      "GREEN",
+      "BULKY"
+    ]
+  },
+  {
+    "id": 19,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 77,
+    "physicalTraits": [
+      "EXTRA_ARMS"
+    ]
+  },
+  {
+    "id": 20,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": null,
+    "physicalTraits": [
+      "EXTRA_ARMS"
+    ]
+  },
+  {
+    "id": 21,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 82,
+    "physicalTraits": [
+      "EXTRA_ARMS",
+      "EXTRA_HEAD"
+    ]
+  },
+  {
+    "id": 32,
+    "isHumanoid": null,
+    "originPlanet": "VOGSPHERE",
+    "age": 149,
+    "physicalTraits": [
+      "BULKY"
+    ]
+  },
+  {
+    "id": 34,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 8,
+    "physicalTraits": [
+      "EXTRA_ARMS",
+      "EXTRA_HEAD"
+    ]
+  },
+  {
+    "id": 37,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": null,
+    "physicalTraits": [
+      "EXTRA_HEAD"
+    ]
+  },
+  {
+    "id": 38,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 3,
+    "physicalTraits": null
+  },
+  {
+    "id": 46,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 9,
+    "physicalTraits": null
+  },
+  {
+    "id": 48,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 6,
+    "physicalTraits": null
+  },
+  {
+    "id": 51,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 75,
+    "physicalTraits": null
+  },
+  {
+    "id": 53,
+    "isHumanoid": null,
+    "originPlanet": "VOGSPHERE",
+    "age": null,
+    "physicalTraits": [
+      "GREEN",
+      "BULKY"
+    ]
+  },
+  {
+    "id": 54,
+    "isHumanoid": null,
+    "originPlanet": "VOGSPHERE",
+    "age": 10,
+    "physicalTraits": [
+      "GREEN",
+      "BULKY"
+    ]
+  },
+  {
+    "id": 65,
+    "isHumanoid": true,
+    "originPlanet": null,
+    "age": 30,
+    "physicalTraits": [
+      "EXTRA_ARMS"
+    ]
+  },
+  {
+    "id": 67,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": null,
+    "physicalTraits": [
+      "GREEN",
+      "BULKY"
+    ]
+  },
+  {
+    "id": 68,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 145,
+    "physicalTraits": null
+  },
+  {
+    "id": 69,
+    "isHumanoid": null,
+    "originPlanet": "VOGSPHERE",
+    "age": 25,
+    "physicalTraits": null
+  },
+  {
+    "id": 73,
+    "isHumanoid": null,
+    "originPlanet": "VOGSPHERE",
+    "age": 4,
+    "physicalTraits": [
+      "GREEN"
+    ]
+  },
+  {
+    "id": 77,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": null,
+    "physicalTraits": [
+      "BULKY",
+      "GREEN"
+    ]
+  },
+  {
+    "id": 83,
+    "isHumanoid": true,
+    "originPlanet": null,
+    "age": 88,
+    "physicalTraits": [
+      "EXTRA_ARMS",
+      "EXTRA_HEAD"
+    ]
+  },
+  {
+    "id": 85,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 167,
+    "physicalTraits": [
+      "BULKY",
+      "GREEN"
+    ]
+  },
+  {
+    "id": 91,
+    "isHumanoid": null,
+    "originPlanet": "VOGSPHERE",
+    "age": 131,
+    "physicalTraits": null
+  },
+  {
+    "id": 98,
+    "isHumanoid": null,
+    "originPlanet": "VOGSPHERE",
+    "age": 54,
+    "physicalTraits": null
+  },
+  {
+    "id": 107,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 124,
+    "physicalTraits": null
+  },
+  {
+    "id": 115,
+    "isHumanoid": null,
+    "originPlanet": "BETELGEUSE",
+    "age": null,
+    "physicalTraits": [
+      "EXTRA_HEAD",
+      "EXTRA_ARMS"
+    ]
+  },
+  {
+    "id": 116,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 97,
+    "physicalTraits": null
+  },
+  {
+    "id": 118,
+    "isHumanoid": null,
+    "originPlanet": "VOGSPHERE",
+    "age": 2,
+    "physicalTraits": [
+      "BULKY",
+      "GREEN"
+    ]
+  },
+  {
+    "id": 119,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": null,
+    "physicalTraits": [
+      "EXTRA_ARMS"
+    ]
+  },
+  {
+    "id": 121,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": null,
+    "physicalTraits": null
+  },
+  {
+    "id": 125,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 187,
+    "physicalTraits": [
+      "BULKY",
+      "GREEN"
+    ]
+  },
+  {
+    "id": 127,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": null,
+    "physicalTraits": [
+      "EXTRA_ARMS",
+      "EXTRA_HEAD"
+    ]
+  },
+  {
+    "id": 131,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 28,
+    "physicalTraits": [
+      "GREEN",
+      "BULKY"
+    ]
+  },
+  {
+    "id": 135,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 190,
+    "physicalTraits": [
+      "BULKY"
+    ]
+  },
+  {
+    "id": 138,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 170,
+    "physicalTraits": null
+  },
+  {
+    "id": 141,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 78,
+    "physicalTraits": null
+  },
+  {
+    "id": 144,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 38,
+    "physicalTraits": null
+  },
+  {
+    "id": 145,
+    "isHumanoid": true,
+    "originPlanet": null,
+    "age": 89,
+    "physicalTraits": [
+      "EXTRA_HEAD"
+    ]
+  },
+  {
+    "id": 150,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 46,
+    "physicalTraits": [
+      "EXTRA_ARMS"
+    ]
+  },
+  {
+    "id": 152,
+    "isHumanoid": null,
+    "originPlanet": "BETELGEUSE",
+    "age": 19,
+    "physicalTraits": [
+      "EXTRA_HEAD",
+      "EXTRA_ARMS"
+    ]
+  },
+  {
+    "id": 154,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 98,
+    "physicalTraits": null
+  },
+  {
+    "id": 156,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 72,
+    "physicalTraits": [
+      "GREEN"
+    ]
+  },
+  {
+    "id": 157,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 73,
+    "physicalTraits": [
+      "EXTRA_ARMS",
+      "EXTRA_HEAD"
+    ]
+  },
+  {
+    "id": 167,
+    "isHumanoid": true,
+    "originPlanet": "BETELGEUSE",
+    "age": 6,
+    "physicalTraits": [
+      "EXTRA_ARMS"
+    ]
+  },
+  {
+    "id": 169,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 58,
+    "physicalTraits": [
+      "BULKY",
+      "GREEN"
+    ]
+  },
+  {
+    "id": 170,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": null,
+    "physicalTraits": null
+  },
+  {
+    "id": 171,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": null,
+    "physicalTraits": [
+      "BULKY"
+    ]
+  },
+  {
+    "id": 172,
+    "isHumanoid": null,
+    "originPlanet": "BETELGEUSE",
+    "age": 20,
+    "physicalTraits": null
+  },
+  {
+    "id": 174,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 200,
+    "physicalTraits": null
+  },
+  {
+    "id": 178,
+    "isHumanoid": null,
+    "originPlanet": "BETELGEUSE",
+    "age": null,
+    "physicalTraits": null
+  },
+  {
+    "id": 179,
+    "isHumanoid": null,
+    "originPlanet": "BETELGEUSE",
+    "age": null,
+    "physicalTraits": [
+      "EXTRA_HEAD"
+    ]
+  },
+  {
+    "id": 188,
+    "isHumanoid": false,
+    "originPlanet": "VOGSPHERE",
+    "age": 114,
+    "physicalTraits": null
+  },
+  {
+    "id": 196,
+    "isHumanoid": null,
+    "originPlanet": "BETELGEUSE",
+    "age": 43,
+    "physicalTraits": null
+  },
+  {
+    "id": 198,
+    "isHumanoid": null,
+    "originPlanet": "BETELGEUSE",
+    "age": 63,
+    "physicalTraits": [
+      "EXTRA_HEAD"
+    ]
+  }
+]
