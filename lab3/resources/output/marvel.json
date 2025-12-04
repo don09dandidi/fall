@@ -1,0 +1,215 @@
+[
+  {
+    "id": 15,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 3566,
+    "physicalTraits": [
+      "BLONDE",
+      "TALL"
+    ]
+  },
+  {
+    "id": 17,
+    "isHumanoid": null,
+    "originPlanet": "ASGARD",
+    "age": 3587,
+    "physicalTraits": null
+  },
+  {
+    "id": 22,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 2705,
+    "physicalTraits": [
+      "TALL",
+      "BLONDE"
+    ]
+  },
+  {
+    "id": 45,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 3731,
+    "physicalTraits": null
+  },
+  {
+    "id": 55,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": null,
+    "physicalTraits": [
+      "BLONDE",
+      "TALL"
+    ]
+  },
+  {
+    "id": 56,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": null,
+    "physicalTraits": [
+      "BLONDE"
+    ]
+  },
+  {
+    "id": 57,
+    "isHumanoid": null,
+    "originPlanet": "ASGARD",
+    "age": null,
+    "physicalTraits": [
+      "TALL"
+    ]
+  },
+  {
+    "id": 61,
+    "isHumanoid": null,
+    "originPlanet": null,
+    "age": 2954,
+    "physicalTraits": [
+      "BLONDE",
+      "TALL"
+    ]
+  },
+  {
+    "id": 64,
+    "isHumanoid": null,
+    "originPlanet": "ASGARD",
+    "age": null,
+    "physicalTraits": [
+      "BLONDE"
+    ]
+  },
+  {
+    "id": 71,
+    "isHumanoid": true,
+    "originPlanet": null,
+    "age": 3711,
+    "physicalTraits": [
+      "BLONDE",
+      "TALL"
+    ]
+  },
+  {
+    "id": 74,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": null,
+    "physicalTraits": [
+      "BLONDE",
+      "TALL"
+    ]
+  },
+  {
+    "id": 90,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 3526,
+    "physicalTraits": [
+      "TALL"
+    ]
+  },
+  {
+    "id": 95,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 2340,
+    "physicalTraits": [
+      "TALL"
+    ]
+  },
+  {
+    "id": 103,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 1446,
+    "physicalTraits": null
+  },
+  {
+    "id": 106,
+    "isHumanoid": null,
+    "originPlanet": "ASGARD",
+    "age": null,
+    "physicalTraits": [
+      "BLONDE"
+    ]
+  },
+  {
+    "id": 112,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": null,
+    "physicalTraits": null
+  },
+  {
+    "id": 124,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 4869,
+    "physicalTraits": [
+      "BLONDE",
+      "TALL"
+    ]
+  },
+  {
+    "id": 140,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 4297,
+    "physicalTraits": null
+  },
+  {
+    "id": 159,
+    "isHumanoid": null,
+    "originPlanet": "ASGARD",
+    "age": null,
+    "physicalTraits": null
+  },
+  {
+    "id": 160,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 1134,
+    "physicalTraits": [
+      "TALL",
+      "BLONDE"
+    ]
+  },
+  {
+    "id": 164,
+    "isHumanoid": null,
+    "originPlanet": null,
+    "age": 3783,
+    "physicalTraits": [
+      "TALL",
+      "BLONDE"
+    ]
+  },
+  {
+    "id": 173,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 1732,
+    "physicalTraits": [
+      "TALL",
+      "BLONDE"
+    ]
+  },
+  {
+    "id": 176,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 289,
+    "physicalTraits": [
+      "TALL",
+      "BLONDE"
+    ]
+  },
+  {
+    "id": 194,
+    "isHumanoid": true,
+    "originPlanet": "ASGARD",
+    "age": 1123,
+    "physicalTraits": null
+  }
+]

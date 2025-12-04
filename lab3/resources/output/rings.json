@@ -1,0 +1,206 @@
+[
+  {
+    "id": 0,
+    "isHumanoid": null,
+    "originPlanet": "EARTH",
+    "age": null,
+    "physicalTraits": [
+      "POINTY_EARS"
+    ]
+  },
+  {
+    "id": 18,
+    "isHumanoid": null,
+    "originPlanet": "EARTH",
+    "age": 10026,
+    "physicalTraits": [
+      "POINTY_EARS"
+    ]
+  },
+  {
+    "id": 25,
+    "isHumanoid": true,
+    "originPlanet": "EARTH",
+    "age": null,
+    "physicalTraits": [
+      "SHORT",
+      "BULKY"
+    ]
+  },
+  {
+    "id": 27,
+    "isHumanoid": true,
+    "originPlanet": null,
+    "age": 19272,
+    "physicalTraits": [
+      "POINTY_EARS"
+    ]
+  },
+  {
+    "id": 30,
+    "isHumanoid": true,
+    "originPlanet": "EARTH",
+    "age": null,
+    "physicalTraits": [
+      "POINTY_EARS"
+    ]
+  },
+  {
+    "id": 62,
+    "isHumanoid": null,
+    "originPlanet": "EARTH",
+    "age": null,
+    "physicalTraits": [
+      "POINTY_EARS"
+    ]
+  },
+  {
+    "id": 70,
+    "isHumanoid": true,
+    "originPlanet": "EARTH",
+    "age": 148,
+    "physicalTraits": [
+      "SHORT",
+      "BULKY"
+    ]
+  },
+  {
+    "id": 81,
+    "isHumanoid": true,
+    "originPlanet": "EARTH",
+    "age": 1112,
+    "physicalTraits": [
+      "BLONDE",
+      "POINTY_EARS"
+    ]
+  },
+  {
+    "id": 82,
+    "isHumanoid": null,
+    "originPlanet": null,
+    "age": 10791,
+    "physicalTraits": [
+      "POINTY_EARS"
+    ]
+  },
+  {
+    "id": 84,
+    "isHumanoid": true,
+    "originPlanet": "EARTH",
+    "age": null,
+    "physicalTraits": [
+      "SHORT",
+      "BULKY"
+    ]
+  },
+  {
+    "id": 109,
+    "isHumanoid": true,
+    "originPlanet": "EARTH",
+    "age": 23,
+    "physicalTraits": [
+      "BULKY",
+      "SHORT"
+    ]
+  },
+  {
+    "id": 114,
+    "isHumanoid": true,
+    "originPlanet": null,
+    "age": null,
+    "physicalTraits": [
+      "BULKY",
+      "SHORT"
+    ]
+  },
+  {
+    "id": 117,
+    "isHumanoid": true,
+    "originPlanet": "EARTH",
+    "age": 35,
+    "physicalTraits": [
+      "BULKY",
+      "SHORT"
+    ]
+  },
+  {
+    "id": 129,
+    "isHumanoid": true,
+    "originPlanet": "EARTH",
+    "age": 6606,
+    "physicalTraits": [
+      "BLONDE",
+      "POINTY_EARS"
+    ]
+  },
+  {
+    "id": 134,
+    "isHumanoid": true,
+    "originPlanet": "EARTH",
+    "age": 14388,
+    "physicalTraits": [
+      "BLONDE",
+      "POINTY_EARS"
+    ]
+  },
+  {
+    "id": 136,
+    "isHumanoid": true,
+    "originPlanet": null,
+    "age": 10980,
+    "physicalTraits": [
+      "POINTY_EARS",
+      "BLONDE"
+    ]
+  },
+  {
+    "id": 155,
+    "isHumanoid": true,
+    "originPlanet": "EARTH",
+    "age": 18957,
+    "physicalTraits": [
+      "POINTY_EARS",
+      "BLONDE"
+    ]
+  },
+  {
+    "id": 181,
+    "isHumanoid": null,
+    "originPlanet": "EARTH",
+    "age": null,
+    "physicalTraits": [
+      "POINTY_EARS",
+      "BLONDE"
+    ]
+  },
+  {
+    "id": 187,
+    "isHumanoid": null,
+    "originPlanet": "EARTH",
+    "age": null,
+    "physicalTraits": [
+      "BLONDE",
+      "POINTY_EARS"
+    ]
+  },
+  {
+    "id": 190,
+    "isHumanoid": null,
+    "originPlanet": null,
+    "age": 4555,
+    "physicalTraits": [
+      "BLONDE",
+      "POINTY_EARS"
+    ]
+  },
+  {
+    "id": 197,
+    "isHumanoid": true,
+    "originPlanet": "EARTH",
+    "age": 13,
+    "physicalTraits": [
+      "SHORT",
+      "BULKY"
+    ]
+  }
+]
